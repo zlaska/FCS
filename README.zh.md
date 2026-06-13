@@ -1,4 +1,4 @@
-[English](./README.en.md) | **中文**
+[English](./README.md) | **中文**
 
 # 灵活就业共创规范 FCS
 **Flexible Cooperation Standard**
