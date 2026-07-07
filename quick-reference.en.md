@@ -1,4 +1,4 @@
-# FCS Quick Reference v1.0
+# FCS Quick Reference v1.1
 
 > In one sentence: A default rule set for a group of people coming together temporarily to do something—simple, flexible, no contract needed.
 
@@ -27,7 +27,17 @@
 | Capital | (Amount ÷ Local hourly wage) × Capital weight |
 | Production materials | (Valuation ÷ Local hourly wage) × Capital weight |
 
-Capital weight is recommended at 3.
+- Capital weight is recommended at 3
+- **Investments are non-refundable**; keep any single investment modest
+- Assets / IP licenses may carry a usage term, converted by usage period (like rent); returned or expired at term end
+
+## Money Flow (Before Incorporation)
+
+One-line principle: **no shared pool for expenses; income flows in but is not distributed** (avoids de facto partnership liability and custody disputes)
+
+- **Stage 1 (expenses only)**: no shared wallet—whoever claims an expense pays directly, posts the receipt, and converts it to contribution points
+- **Stage 2 (income begins)**: vote to designate a funds custodian + dedicated account + transactions visible to all; income is used only for project expenses, each member's share recorded as "accrued payable," settled in one lump sum after incorporation
+- **Upgrade**: once income is stable, form a company directly; contribution point ratios map to equity
 
 ## Key Processes
 
@@ -38,23 +48,28 @@ Capital weight is recommended at 3.
 ### Leaving the Team
 - May leave at any time
 - Existing contribution points are preserved until a settlement event
-- Unused capital / production materials may be reclaimed at original investment amount
+- Contributed capital / assets are not refunded; term-limited assets are returned at term end
 - Labor time investment is non-recoverable
 
 ### Task Flow
 - Anyone may post a task (required: description, estimated hours)
 - First to claim wins
+- **Settlement by estimated hours**: locked in upon claiming—no deduction for finishing early, no top-up for running over
+- Clearly unreasonable estimates → challenge mechanism for re-evaluation
 - Manage your own schedule; only need to meet the deadline
 
 ### Acceptance Flow
 - Self-confirmation, or role-based confirmation (PM, etc.)
-- All hours adjustments recorded by platform; concerns first discussed directly
+- All point adjustments recorded by platform; concerns first discussed directly
 - If communication is blocked → challenge mechanism → simple majority vote
+- Challenge succeeds → task terminated; adjusting the ledger requires **4/5 majority**, ledger-only with differences settled in later distributions; distributed profits reclaimable only within 1 year
 
 ### Decision Flow (Recommended)
 1. Module owner decides
 2. Project Manager / Product Manager arbitrates
 3. Simple majority vote
+
+Roles are nominated by the team; removing / replacing any role (including the initiator's functional roles) requires **4/5 majority**.
 
 ### Task Deadline Disputes
 Initiator → Product Manager → Project Manager → Majority consensus → Vote
@@ -63,14 +78,16 @@ Initiator → Product Manager → Project Manager → Majority consensus → Vot
 
 | Matter | Threshold |
 |---|---|
-| Daily decisions, joining, additional investment, challenges, catch-all | Simple majority (>50%) |
-| Modifying Cooperation Vision, fraud determination | 4/5 majority |
+| Daily decisions, joining, additional investment, whether a challenge succeeds, catch-all | Simple majority (>50%) |
+| Modifying Cooperation Vision, fraud determination, role removal, post-challenge ledger adjustment | 4/5 majority |
+
+Voting details (period, counting basis, etc.) kept simple by default; supplementary rules by simple majority if disputed.
 
 ## Profit Distribution
 
 **At settlement**: Personal share = Total profits × (Personal points ÷ Team total points)
 
-**At incorporation**: Contribution point ratio = Equity ratio
+**At incorporation**: Contribution point ratio = Equity ratio; "accrued payable" settled in one lump sum
 
 ## Red Lines (Don't Do These)
 
@@ -79,8 +96,8 @@ Initiator → Product Manager → Project Manager → Majority consensus → Vot
 
 ## Intellectual Property
 
-- Contributed IP / copyrights are licensed only for use within this project
-- Individual-owned IP becomes invalid upon individual's exit
+- Output produced during the project (code, designs, documents, etc.) is perpetually licensed to the project free of charge, **unaffected by exit**
+- Pre-existing IP contributed by a member may carry a license term, converted by usage period; expires automatically at term end
 - Ideas may be entered into the record before implementation, with member acknowledgment, as reference for future disputes
 
 ---

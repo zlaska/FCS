@@ -33,7 +33,7 @@ It's a **lightweight cooperation framework** covering the middle ground between 
 
 ## Quick Start
 
-1. The team agrees: "We adopt FCS v1.0"
+1. The team agrees: "We adopt FCS v1.1"
 2. The initiator writes a brief **Cooperation Vision** (what to do, why)
 3. Use a platform that supports FCS rules (or set up your own spreadsheet), and start recording contributions
 4. For the full rules, see [`protocol.en.md`](./protocol.en.md)
@@ -61,7 +61,7 @@ FCS welcomes community improvement:
 
 ## Citation
 
-> Flexible Cooperation Standard FCS v1.0 (Leo Zhuang)
+> Flexible Cooperation Standard FCS v1.1 (Leo Zhuang)
 
 ## License
 

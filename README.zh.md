@@ -33,7 +33,7 @@ FCS 是一份 **协作的默认规则**——当一群人临时聚到一起做�
 
 ## 快速开始
 
-1. 团队达成共识："我们采用 FCS v1.0"
+1. 团队达成共识："我们采用 FCS v1.1"
 2. 由发起人写一份 **合作愿景**（要做什么、为什么做）
 3. 找一个支持 FCS 规则的平台（或自建表格），开始记录贡献
 4. 完整规则见 [`灵活就业共创规范.md`](./灵活就业共创规范.md)
@@ -42,7 +42,7 @@ FCS 是一份 **协作的默认规则**——当一群人临时聚到一起做�
 
 | 文件 | 用途 |
 |---|---|
-| [`灵活就业共创规范.md`](./灵活就业共创规范.md) | 完整协议正文 v1.0（中文） |
+| [`灵活就业共创规范.md`](./灵活就业共创规范.md) | 完整协议正文 v1.1（中文） |
 | [`protocol.en.md`](./protocol.en.md) | Full protocol text (English) |
 | [`quick-reference.md`](./quick-reference.md) | 单页速查卡（中文） |
 | [`quick-reference.en.md`](./quick-reference.en.md) | Quick reference (English) |
@@ -61,7 +61,7 @@ FCS 鼓励社区共同完善：
 
 ## 引用
 
-> 灵活就业共创规范 FCS v1.0 (Leo Zhuang)
+> 灵活就业共创规范 FCS v1.1 (Leo Zhuang)
 
 ## 许可
 
